@@ -1,0 +1,15 @@
+.f-btn,
+.s-btn {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.f-btn {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.s-btn {
+    background-color: rgb(255, 200, 80);
+}
